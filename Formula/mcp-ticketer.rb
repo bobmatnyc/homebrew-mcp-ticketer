@@ -3,8 +3,8 @@ class McpTicketer < Formula
 
   desc "Universal ticket management interface for AI agents with MCP support"
   homepage "https://github.com/bobmatnyc/mcp-ticketer"
-  url "https://files.pythonhosted.org/packages/source/m/mcp-ticketer/mcp_ticketer-1.1.8.tar.gz"
-  sha256 "419287471fd589b24be9a0551863daa85fe7a15ee2929c3374138361a11f701f"
+  url "https://files.pythonhosted.org/packages/12/df/f390ce43761266d64171d85e279d21954f5407de0c386cc38a3bfd7af1e0/mcp_ticketer-1.4.0.tar.gz"
+  sha256 "cef9158fda77b37e024fe09843be1d6a24aeae219abef7084decceb93b3336e1"
   license "MIT"
 
   depends_on "libyaml"
